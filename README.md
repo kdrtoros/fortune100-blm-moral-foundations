@@ -30,7 +30,7 @@ Original dataset and report available at:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fortune100-blm-moral-foundations.git
+git clone https://github.com/kdrtoros/fortune100-blm-moral-foundations.git
 cd fortune100-blm-moral-foundations
 ```
 
@@ -52,10 +52,10 @@ pip install -r requirements.txt
 
 ### 4️⃣ Place the dataset
 
-Download the dataset from the official site:
+Download from the official source:
 👉 [Fortune 100 BLM Dataset](https://www.kmcelwee.com/fortune-100-blm-report/site/)
 
-Save it as:
+Save as:
 
 ```
 fortune-100-tweets.csv
@@ -68,18 +68,18 @@ in the project root folder, or adjust the dataset path in the scripts.
 **Weekly outputs + plots:**
 
 ```bash
-python scripts/f100_weekly_all.py
+python f100_weekly_all.py
 ```
 
 **Monthly outputs + plots:**
 
 ```bash
-python scripts/f100_monthly.py
+python f100_monthly.py
 ```
 
 ### 6️⃣ View results
 
-* Figures will be saved in the `figures/` folder
+* Figures will be saved in the `figures/` folder (create it if missing)
 * CSV summaries will be written to the project root
 
 ---
