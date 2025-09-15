@@ -124,4 +124,3 @@ This work is open-source. Please cite the original dataset:
 > McElwee, K. *Fortune 100 BLM Report*.
 > Available at: [https://www.kmcelwee.com/fortune-100-blm-report/site/](https://www.kmcelwee.com/fortune-100-blm-report/site/)
 
-Released under the **MIT License** (see `LICENSE`).
