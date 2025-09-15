@@ -1,9 +1,8 @@
 # fortune100-blm-moral-foundations
 
 Analysis of Fortune 100 companies’ tweets following George Floyd’s death (**May 26 – July 25, 2020**) using **Moral Foundations Theory**.
-Includes Python scripts for preprocessing, scoring, and visualization of corporate responses to the #BlackLivesMatter movement.
-
----
+Includes Python scripts for preprocessing, scoring, and visualization of corporate responses to the #BlackLivesMatter movement. 
+Disclaimer: This repository was developed with the assistance of AI. I utilized AI tools to help with tasks such as code generation, debugging, and documentation.
 
 ## 📄 Dataset
 
